@@ -1,0 +1,6 @@
+project.conf
+.python-version
+.idea/
+*.log
+*.pyc
+.venv/
